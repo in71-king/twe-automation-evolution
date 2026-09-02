@@ -1,13 +1,8 @@
-# TWE Automation Evolution
+# TWE 예약 작업 제작기
 
-ChatGPT 예약 작업의 지시 변경이 실제 주간 메일 결과를 어떻게 바꾸었는지 보여주는 인터랙티브 교육용 웹앱입니다.
+실제 ChatGPT 대화와 Gmail 발송 결과를 따라가며 TWE 예약 작업이 테스트·실패·보정을 거쳐 완성되는 과정을 보여주는 Vite 기반 인터랙티브 웹앱입니다.
 
-## 배포
-
-`main` 브랜치에 변경 사항이 반영되면 GitHub Actions가 정적 파일을 GitHub Pages에 배포합니다.
-
-## 데이터 원칙
-
-- 2026년 8월 25일 최초 테스트 발송본과 8월 27일 최종 1인 실전 테스트 발송본을 비교했습니다.
-- 이메일 주소와 개인 식별정보는 마스킹했습니다.
-- A/B/C/D 내부 분류 문자는 중요도 등급으로 오해되지 않도록 노출하지 않습니다.
+- 메인 앱: https://in71-king.github.io/twe-automation-evolution/
+- 검토본: https://in71-king.github.io/twe-automation-evolution/story-preview/
+- 실제 Gmail 발송 체크포인트 5개
+- 개인정보 및 수신정보 마스킹
